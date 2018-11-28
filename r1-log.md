@@ -12,3 +12,7 @@ Did half of freeCodeCamp's project named "Project Landing Page".
 ### R1D2
 
 Completed the freeCodeCamp's "Project Landing Page" project.
+
+### R1D3
+
+Completed Javascript challanges of FCC and started next project of web design.
