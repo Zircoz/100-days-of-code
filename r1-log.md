@@ -16,3 +16,7 @@ Completed the freeCodeCamp's "Project Landing Page" project.
 ### R1D3
 
 Completed Javascript challanges of FCC and started next project of web design.
+
+### R1D4
+
+Completed Technical Documentation Page project of FCC.
