@@ -8,7 +8,7 @@
 
 ### Day 5: November 30, 2018
 
-**Today's Progress**: Did a LAB 1 of IBM Hyperledger and dived into hyperledger composer language a bit. Completed a few ES6 challenges on freeCodeCamp.
+**Today's Progress**: Did a LAB 1 of IBM Hyperledger and dived into hyperledger composer language a bit. Completed ES6 challenges on freeCodeCamp.
 
 **Thoughts**: I suggest suspect I like the course and will consider paying for its certification in a few days. Also, will prefer doing blockchain & smart contracts without the ibm clound.
 
