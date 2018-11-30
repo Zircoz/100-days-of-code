@@ -23,7 +23,7 @@ Completed Technical Documentation Page project of FCC.
 
 ### R1D5
 
-Did Lab 1 of Blockchain Dev course. And some ES6 challanges from freecodecamp.org
+Did Lab 1 of Blockchain Dev course, and ES6 challanges from freecodecamp.org
 
 ### R1D6
 
