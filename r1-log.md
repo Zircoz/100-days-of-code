@@ -27,3 +27,4 @@ Did Lab 1 of Blockchain Dev course, and ES6 challanges from freecodecamp.org
 
 ### R1D6
 
+Did a few more lectures of Coursera Blockchain. Struggled with some CSS. Some progress in pirple nodejs. 
