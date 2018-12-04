@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 26, 2018 (Needs to be edited)
+### Day 00: November 26, 2018 (Needs to be edited)
 
 **Today's Progress**: 
 
@@ -8,7 +8,7 @@
 
 **Link to work:** 
 
-### Day 5: November 30, 2018
+### Day 05: November 30, 2018
 
 **Today's Progress**: Did a LAB 1 of IBM Hyperledger and dived into hyperledger composer language a bit. Completed ES6 challenges on freeCodeCamp.
 
@@ -16,7 +16,7 @@
 
 **Links:** NA
 
-### Day 6: December 01, 2018
+### Day 06: December 01, 2018
 
 **Today's Progress**: Did some lectures on Pirple Masterclass, Coursera Blockchain, and struggled with some CSS for a webpage.
 
@@ -26,12 +26,32 @@
 
 **For Next Day:** Will try implementing that solution and beginning the last responsive web design project of FCC. Also, hopefully do something in PHP+SQL.
 
-### Day 7: December 02, 2018
+### Day 07: December 03, 2018
+
+**Today's Progress:** Started Datacamp's course intro to python for data science, some progress in Regex.
+
+**Thoughts:** What's keeping me from completing the regex is its length, will try to find out an appropiate day and complete it asap making notes along the way.
+
+**Link to work:** NA
+
+**For next day:** NA
+
+### Day 08: December 04, 2018
+
+**Today's Progress:** Progress in nodejs masterclass, completed lists in datacamp's python course, some progress in Regex on FCC, some progress in Star program.
+
+**Thoughts:** A productive day for some targets, though I slept when I shouldn't have and that wasted some time preventing self-expected progress. I already know python enough.
+
+**Link to work:** N.A.
+
+**For next day:** Completing DataCamp's functions, more progess in Regex and Nodejs. I already know *.py enough. Hence, will try completing basics asap and moving on to applications and numpy.
+
+### Day 09: December 05, 2018
 
 **Today's Progress:**
 
-**Thoughts:**
+**Thoughts**
 
-**Link to work:**
+**Link to Work:**
 
-**For next day:**
+**For Next Day:**
