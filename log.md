@@ -48,6 +48,17 @@
 
 ### Day 09: December 05, 2018
 
+**Today's Progress:** Completed portfolio project of responsive web design
+
+**Thoughts** Slower than I thought due to some unforseen situations. :P
+
+**Link to Work:** NA
+
+**For Next Day:** completing more of python intro on datacamp and let's see...
+
+
+### Day 10: December 06, 2018
+
 **Today's Progress:**
 
 **Thoughts**
