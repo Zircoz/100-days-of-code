@@ -50,18 +50,28 @@
 
 **Today's Progress:** Completed portfolio project of responsive web design
 
-**Thoughts** Slower than I thought due to some unforseen situations. :P
+**Thoughts** Slower than I wanted it to be due to some unforseen situations. :P
 
-**Link to Work:** NA
+**Link to Work:** https://github.com/Zircoz/freeCodeCamp/tree/master/responsive%20web%20design%20projects/portfolio
 
 **For Next Day:** completing more of python intro on datacamp and let's see...
 
 
 ### Day 10: December 06, 2018
 
-**Today's Progress:**
+**Today's Progress:** Completed Datacamp's Intro to .py for Data Science; read Anaconda's Docs. :D
 
-**Thoughts**
+**Thoughts** It was exciting to know how powerful .py's libs are!
+
+**Link to Work:** N.A.
+
+**For Next Day:** Will do html5.canvas and try implementing it into star. Maybe, also some FCC Regex or Nodejs to avoid monotonicity.
+
+### Day 11: December 07, 2018
+
+**Today's progress:** 
+
+**Thoughts:**
 
 **Link to Work:**
 
