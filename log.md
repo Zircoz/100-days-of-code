@@ -69,6 +69,16 @@
 
 ### Day 11: December 07, 2018
 
+**Today's progress:** Some of <canvas> from Mark Pilgrim's "HTML5: Up and running"
+
+**Thoughts:** Not a single solution can work. Will need full days dedicated to try >1 solutions to star issue.
+
+**Link to Work:** NA
+
+**For Next Day:** More on above.
+
+### Day 12: December 08, 2018
+
 **Today's progress:** 
 
 **Thoughts:**
