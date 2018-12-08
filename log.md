@@ -79,10 +79,20 @@
 
 ### Day 12: December 08, 2018
 
-**Today's progress:** 
+**Today's progress:** More work on star. Finalized up a solution I think will work. A product in a few days if everything goes right. 
+
+**Thoughts:** N.A.
+
+**Link to Work:** N.A.
+
+**For Next Day:** N.A.
+
+### Day 13: December 09, 2018
+
+**Today's progress:**
 
 **Thoughts:**
 
-**Link to Work:**
+**Link to work:**
 
-**For Next Day:**
+**For Next day:**
