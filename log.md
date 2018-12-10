@@ -87,7 +87,17 @@
 
 **For Next Day:** N.A.
 
-### Day 13: December 09, 2018
+### Day 13: December 10, 2018
+
+**Today's Progress:** Did more in canvas of HTML5.
+ 
+**Thoughts:** 
+
+**Link to work:**
+
+**For Next day:**
+
+### Day 14: December 11, 2018
 
 **Today's progress:**
 
