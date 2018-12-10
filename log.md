@@ -89,13 +89,13 @@
 
 ### Day 13: December 10, 2018
 
-**Today's Progress:** Did more in canvas of HTML5.
+**Today's Progress:** Did more in canvas of HTML5. And a few lectures on blockchain.
  
-**Thoughts:** 
+**Thoughts:** Signing off early to begin shifting work schedule.
 
-**Link to work:**
+**Link to work:** NA
 
-**For Next day:**
+**For Next day:** More of the same.
 
 ### Day 14: December 11, 2018
 
