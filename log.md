@@ -99,10 +99,31 @@
 
 ### Day 14: December 11, 2018
 
-**Today's progress:**
+**Today's progress:** Experimented with animations in canvas. 
+
+**Thoughts:** NA
+
+**Link to work:** NA
+
+**For Next day:** More in canvas; trying to make it interactive; also read the API's code to see if it has some hints.
+
+#### Day 15:  December 12, 2018
+
+**Today's Progress:** Regex completed. Canvas basics and experiments over
+
+**Thoughts:** Regex was quite tricky and mind bending; glad I didn't skip it, lol
+
+**Link to Work:** NA
+
+**For next day:** Canvas product can be expected soon...
+
+
+#### Day 16:  December 13, 2018
+
+**Today's Progress:** 
 
 **Thoughts:**
 
-**Link to work:**
+**Link to Work:**
 
-**For Next day:**
+**For next day:**
