@@ -111,7 +111,7 @@
 
 **Today's Progress:** Regex completed. Canvas basics and experiments over
 
-**Thoughts:** Regex was quite tricky and mind bending; glad I didn't skip it, lol
+**Thoughts:** Regex was quite tricky & mind bending; glad I didn't skip it, lol
 
 **Link to Work:** NA
 
@@ -119,6 +119,16 @@
 
 
 #### Day 16:  December 13, 2018
+
+**Today's Progress:** More work in the star. Did some debugging of old code. 
+
+**Thoughts:** just js in thoughts... lmao; today's work was adventerous.
+
+**Link to Work:** Don't fucking ask...NDA. #_#
+
+**For next day:** 'll start w/ canvas coordinates, & using SQL to store the data for star.  
+
+#### Day 17: December 14, 2018
 
 **Today's Progress:** 
 
